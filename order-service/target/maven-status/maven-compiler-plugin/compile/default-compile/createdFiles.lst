@@ -1,0 +1,12 @@
+com\ackuthe\orderservice\dto\InventoryResponse.class
+com\ackuthe\orderservice\model\Order.class
+com\ackuthe\orderservice\OrderServiceApplication.class
+com\ackuthe\orderservice\controller\OrderController.class
+com\ackuthe\orderservice\model\OrderLineItems.class
+com\ackuthe\orderservice\event\OrderPlacedEvent.class
+com\ackuthe\orderservice\dto\OrderLineItemsDto.class
+com\ackuthe\orderservice\dto\OrderRequest.class
+com\ackuthe\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\ackuthe\orderservice\service\OrderService.class
+com\ackuthe\orderservice\config\WebClientConfig.class
+com\ackuthe\orderservice\repository\OrderRepository.class

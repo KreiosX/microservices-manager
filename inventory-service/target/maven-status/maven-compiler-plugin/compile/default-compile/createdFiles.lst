@@ -1,0 +1,7 @@
+com\ackuthe\inventoryservice\service\InventoryService.class
+com\ackuthe\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\ackuthe\inventoryservice\controller\InventoryController.class
+com\ackuthe\inventoryservice\repository\InventoryRepository.class
+com\ackuthe\inventoryservice\dto\InventoryResponse.class
+com\ackuthe\inventoryservice\model\Inventory.class
+com\ackuthe\inventoryservice\InventoryServiceApplication.class

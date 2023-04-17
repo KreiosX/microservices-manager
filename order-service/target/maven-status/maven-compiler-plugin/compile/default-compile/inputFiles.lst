@@ -1,0 +1,11 @@
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\controller\OrderController.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\OrderServiceApplication.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\service\OrderService.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\dto\OrderRequest.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\config\WebClientConfig.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\dto\OrderLineItemsDto.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\dto\InventoryResponse.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\repository\OrderRepository.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\model\OrderLineItems.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\model\Order.java
+C:\Users\Hasan.Asil\Desktop\product-service\microservices-manager\order-service\src\main\java\com\ackuthe\orderservice\event\OrderPlacedEvent.java
